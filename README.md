@@ -2,8 +2,8 @@
 # Simple Java Networking Framework
 ## Description
 This is heavily inspired by javidx9's Networking in C++ series:
-\- Youtube: https://www.youtube.com/watch?v=2hNdkYInj4g
-\- GitHub: https://github.com/OneLoneCoder/olcPixelGameEngine/tree/master/Videos/Networking/Parts1%262
+<br>\- Youtube: https://www.youtube.com/watch?v=2hNdkYInj4g
+<br>\- GitHub: https://github.com/OneLoneCoder/olcPixelGameEngine/tree/master/Videos/Networking/Parts1%262
 
 A simple java networking framework. This framework offers asynchronous and non-blocking networking using Java NIO asynchronous socket channels. It offers two types of interfaces: A synchronous receive Client/Server and an asynchronous receive Client/Server. The framework allow the transmission of any Serializable objects.
 
